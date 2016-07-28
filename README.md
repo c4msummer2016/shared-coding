@@ -1,3 +1,3 @@
 # shared-coding
 
-Please fork this repository, play the code, add comments and send me pull request.
+I fork a repository, played with code, added comments, and sent a pull request.
